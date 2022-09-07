@@ -2,7 +2,7 @@
 //  WeatherTableViewCell.swift
 //  WeatherApp
 //
-//  Created by Sushil Dhital on 06/09/2022.
+//  Created by Divya Panthi on 06/09/2022.
 //
 
 import UIKit
